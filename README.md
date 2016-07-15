@@ -1,4 +1,4 @@
-##Creating Multiple Checkbox Values to the DB Using Rails 4
+##Adding Multiple Checkbox Values to the DB Using Rails 4
 
 This demo will allow to save checkbox data to a database in Rails
 
