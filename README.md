@@ -1,24 +1,16 @@
+##Creating Multiple Checkbox Values to the DB Using Rails 4
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Rails project on Cloud9 IDE!
+This demo will allow to save checkbox data to a database in Rails
 
 To get started, just do the following:
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://checkboxes-timetoshift.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
+- bundle install
+- rake db:create
+- rake db:migrate
+- rake db:seed
+- rails s or rails s -b $IP -p $PORT  if running ob c9.io
+- Visit http://localhost:3000/professors
 
 ## Support & Documentation
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Coming Soon
