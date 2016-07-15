@@ -8,7 +8,7 @@ To get started, just do the following:
 - rake db:create
 - rake db:migrate
 - rake db:seed
-- rails s or rails s -b $IP -p $PORT  if running ob c9.io
+- rails s or rails s -b $IP -p $PORT  if running on c9.io
 - Visit http://localhost:3000/professors
 
 ## Support & Documentation
